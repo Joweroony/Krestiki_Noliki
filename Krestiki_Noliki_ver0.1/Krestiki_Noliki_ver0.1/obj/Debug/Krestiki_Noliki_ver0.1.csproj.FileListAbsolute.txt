@@ -7,3 +7,13 @@
 \\192.168.0.245\share student$\Documents Student$\Кюдяков Тимур\Мои документы\Files\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\obj\Debug\Krestiki_Noliki_ver0.1.csproj.CoreCompileInputs.cache
 \\192.168.0.245\share student$\Documents Student$\Кюдяков Тимур\Мои документы\Files\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\obj\Debug\Krestiki_Noliki_ver0.1.exe
 \\192.168.0.245\share student$\Documents Student$\Кюдяков Тимур\Мои документы\Files\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\obj\Debug\Krestiki_Noliki_ver0.1.pdb
+C:\Users\moonl\source\repos\Krestiki_Noliki\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\bin\Debug\Krestiki_Noliki_ver0.1.exe.config
+C:\Users\moonl\source\repos\Krestiki_Noliki\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\bin\Debug\Krestiki_Noliki_ver0.1.exe
+C:\Users\moonl\source\repos\Krestiki_Noliki\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\bin\Debug\Krestiki_Noliki_ver0.1.pdb
+C:\Users\moonl\source\repos\Krestiki_Noliki\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\obj\Debug\Krestiki_Noliki_ver0.1.csproj.AssemblyReference.cache
+C:\Users\moonl\source\repos\Krestiki_Noliki\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\obj\Debug\Krestiki_Noliki_ver0._1.Form1.resources
+C:\Users\moonl\source\repos\Krestiki_Noliki\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\obj\Debug\Krestiki_Noliki_ver0._1.Properties.Resources.resources
+C:\Users\moonl\source\repos\Krestiki_Noliki\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\obj\Debug\Krestiki_Noliki_ver0.1.csproj.GenerateResource.cache
+C:\Users\moonl\source\repos\Krestiki_Noliki\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\obj\Debug\Krestiki_Noliki_ver0.1.csproj.CoreCompileInputs.cache
+C:\Users\moonl\source\repos\Krestiki_Noliki\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\obj\Debug\Krestiki_Noliki_ver0.1.exe
+C:\Users\moonl\source\repos\Krestiki_Noliki\Krestiki_Noliki_ver0.1\Krestiki_Noliki_ver0.1\obj\Debug\Krestiki_Noliki_ver0.1.pdb
